@@ -4,4 +4,4 @@
 
 ## License
 
-[MIT](https://github.com/TomerAberbach/types-and-programming-languages-exercises/blob/master/license) © [Tomer Aberbach](https://github.com/TomerAberbach)
+[MIT](https://github.com/TomerAberbach/types-and-programming-languages-exercises/blob/main/license) © [Tomer Aberbach](https://github.com/TomerAberbach)
